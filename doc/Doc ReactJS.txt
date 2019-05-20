@@ -1,0 +1,10 @@
+React JS
+
+Estrutura de projeto:
+
+node_modules : As dependências do projeto.
+public       : Arquivos acessiveis pelo usuário final.
+src          : Código da aplicação.
+.gitignore   : Configuração do Git para ignorar arquivos inseridos no mesmo.
+package.json : Configuração das dependências.
+yarn.lock    : Cache dependências.
